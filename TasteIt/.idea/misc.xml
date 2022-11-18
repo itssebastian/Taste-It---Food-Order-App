@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TasteIt.Internalzip/TasteIt/app/src/main/res/layout/activity_customer_profile.xml" value="0.2436923148431724" />
+        <entry key="..\:/TasteIt.Internalzip/TasteIt/app/src/main/res/layout/activity_donut.xml" value="0.13541666666666666" />
+        <entry key="..\:/TasteIt.Internalzip/TasteIt/app/src/main/res/layout/activity_login_phone.xml" value="0.1" />
+        <entry key="..\:/TasteIt.Internalzip/TasteIt/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/TasteIt.Internalzip/TasteIt/app/src/main/res/layout/activity_pizza.xml" value="0.15507692762747333" />
+        <entry key="..\:/TasteIt.Internalzip/TasteIt/app/src/main/res/layout/activity_profile_name.xml" value="0.1" />
+        <entry key="..\:/TasteIt.Internalzip/TasteIt/app/src/main/res/layout/activity_profile_page2.xml" value="0.1" />
+        <entry key="..\:/TasteIt.Internalzip/TasteIt/app/src/main/res/layout/activity_support.xml" value="0.1" />
+        <entry key="..\:/TasteIt.Internalzip/TasteIt/app/src/main/res/layout/activity_support_page.xml" value="0.1" />
+        <entry key="..\:/TasteIt.Internalzip/TasteIt/app/src/main/res/layout/activity_supportpage.xml" value="0.18461539003270633" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_after_ordered.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_burger.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_card_details.xml" value="0.2971887550200803" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_cart.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_customer_profile.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_donut.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_drink.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_enter_address.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_hotdog.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_intro.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_login.xml" value="0.2436923148431724" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_login_mail.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_login_phone.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_main.xml" value="0.553846170098119" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_payment_mode.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_pizza.xml" value="0.1" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_registration.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_send_otp.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_sendotp.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_show_detail.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_supportpage.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_vegetable_pizaa.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/activity_verify_phone.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/viewholder_category.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/layout/viewholder_recommended.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Sebastian Vannier/Desktop/TasteIt/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
